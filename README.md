@@ -3,12 +3,8 @@
 - 🌱 I’m currently working at a Quality Kiosk as an Automation Engineer.
 - 💞️ I’m looking for an opportunity in Automation testing.
 - 📫 You can reach me via:
-- e-mail: [![Gmail Badge](https://img.shields.io/badge/-nileshpanchal9141@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nileshpanchal9141@gmail.com)](mailto:nileshpanchal9141@gmail.com.com)
+- E-mail: [![Gmail Badge](https://img.shields.io/badge/-nileshpanchal9141@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nileshpanchal9141@gmail.com)](mailto:nileshpanchal9141@gmail.com.com)
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/-Nilesh%20Pramanik-blue?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dearnil/)](https://www.linkedin.com/in/dearnil/)
 
 
 
-<!---
-dearnil/dearnil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
