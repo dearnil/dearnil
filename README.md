@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @dearnil
-- 👀 I’m interested in AI & Machine Learning
-- 🌱 I’m currently working at a Quality Kiosk as Quality Engineer Trainee
-- 💞️ I’m looking for an opportunity in AI and Machine Learning
+- 👋 Hi, I’m Nilesh
+- 👀 I do automation testing for the web, mobile, ios as well as for the API. Also I do some personal projects for the web and API development.
+- 🌱 I’m currently working at a Quality Kiosk as an Automation Engineer.
+- 💞️ I’m looking for an opportunity in Automation testing.
 - 📫 You can reach me via e-mail: nileshpanchal9141@gmail.com
 
 <!---
